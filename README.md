@@ -37,7 +37,7 @@ This is a Laravel and React application to be used for a Tasks Management Applic
 ### Tech Stack <a name="tech-stack"></a>
 
   <ul>
-    <li><a href="https:///">Laravel 11.9</a></li>
+    <li><a href="https:///">Laravel 11.16</a></li>
     <li><a href="https:///">React v 18.2</a></li>
     <li><a href="https://www.postgresql.org/">PostgreSQL v 16.1.1</a></li>
   </ul>
